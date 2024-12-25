@@ -1,0 +1,8 @@
+{
+    "clubb_c1":[1.0,5.0],
+    "clubb_c8":[2.0,8.0],
+    "clubb_gamma_coef":[0.1,0.5],
+    "clubb_c_k10":[0.3,1.2],
+    "zmconv_tau":[1800,14400.0],
+    "zmconv_dmpdz":[-2.0e-3,-0.1e-3] 
+}
